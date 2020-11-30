@@ -5,7 +5,12 @@
         <group>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/BoardException.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/application/UI.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessException.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/application/Program.java</file>
         </group>
     </open-files>
 </project-private>
