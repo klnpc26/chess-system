@@ -5,15 +5,20 @@
         <group>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/Piece.java</file>
-            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/BoardException.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Knight.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Bishop.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Pawn.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Queen.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/application/Program.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/application/UI.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/pieces/Rook.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessException.java</file>
             <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessPiece.java</file>
-            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/Board.java</file>
-            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/chess/ChessPosition.java</file>
-            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/application/Program.java</file>
+            <file>file:/C:/Users/klnpc/NetBeansProjects/ProjetoXadrez/src/boardgame/Position.java</file>
         </group>
     </open-files>
 </project-private>
